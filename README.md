@@ -1,18 +1,21 @@
-![](https://github.com/cayde-6/cayde-6/blob/main/logo.jpg)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+<h1 align="center">Maxim Egorov — Senior iOS Engineer 👋</h1>
+<p align="center">
+  12 yrs shipping high-impact Apple-ecosystem apps — and supercharging delivery with AI-driven productivity tools
+</p>
 
+📍 **Belgrade, Serbia**.  
+🔭 **iOS Team Lead @ B2Broker**
 
-<!--
-**cayde-6/cayde-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Toolkit
+<p align="left">
+  <!-- Core languages & frameworks -->
+  <img src="https://img.shields.io/badge/Swift-F54C00?logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-2C2C2C?logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Objective–C-438EFF?logo=apple&logoColor=white" alt="Objective-C"/>
+  <img src="https://img.shields.io/badge/SPM-FA7343?logo=swift&logoColor=white" alt="Swift Package Manager"/>
+  <img src="https://img.shields.io/badge/CocoaPods-EA4964?logo=cocoapods&logoColor=white" alt="CocoaPods"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/maxim-egorov-ios/)  
+[![Email](https://img.shields.io/badge/Email-maxim.egorov.dev%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:maxim.egorov.dev@gmail.com)
