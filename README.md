@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/SwiftUI-2C2C2C?logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/Objective–C-438EFF?logo=apple&logoColor=white" alt="Objective-C"/>
   <img src="https://img.shields.io/badge/SPM-FA7343?logo=swift&logoColor=white" alt="Swift Package Manager"/>
-  <img src="https://img.shields.io/badge/CocoaPods-EA4964?logo=cocoapods&logoColor=white" alt="CocoaPods"/>
 </p>
 
 ### 🤝 Let’s Connect
