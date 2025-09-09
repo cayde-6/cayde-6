@@ -4,7 +4,7 @@
 </p>
 
 📍 **Belgrade, Serbia**.  
-🔭 **iOS Team Lead @ B2Broker**
+📱 **iOS Team Lead @ B2Broker**
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/maxim-egorov-ios/)  
