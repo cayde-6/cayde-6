@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007AFF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Maxim+Egorov+%F0%9F%91%8B;Senior+iOS+Engineer+%7C+Team+Lead;12%2B+Years+Building+Apple+Ecosystem+Apps;Supercharging+Development+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007AFF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Maxim+Egorov+%F0%9F%91%8B;Lead+iOS+Engineer;12%2B+Years+Building+Apple+Ecosystem+Apps;Supercharging+Development+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 📍 **Based in Belgrade, Serbia**<br>
-💼 **iOS Team Lead @B2Broker** — Leading iOS development and architecture<br>
+💼 **Lead iOS Engineer @B2Broker** — Leading iOS development and architecture<br>
 🎯 **12+ years** of shipping high-impact apps in the Apple ecosystem<br>
 🤖 **AI enthusiast** — Leveraging AI tools to supercharge development productivity<br>
 📱 **Expertise**: Swift, SwiftUI, UIKit, iOS Architecture, Team Leadership
