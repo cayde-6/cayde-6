@@ -11,10 +11,10 @@
 
 ### 🚀 About Me
 
-📍 **Based in Belgrade, Serbia**
-💼 **iOS Team Lead @ B2Broker** — Leading iOS development and architecture
-🎯 **12+ years** of shipping high-impact apps in the Apple ecosystem
-🤖 **AI enthusiast** — Leveraging AI tools to supercharge development productivity
+📍 **Based in Belgrade, Serbia**<br>
+💼 **iOS Team Lead @ B2Broker** — Leading iOS development and architecture<br>
+🎯 **12+ years** of shipping high-impact apps in the Apple ecosystem<br>
+🤖 **AI enthusiast** — Leveraging AI tools to supercharge development productivity<br>
 📱 **Expertise**: Swift, SwiftUI, UIKit, iOS Architecture, Team Leadership
 
 ---
@@ -44,35 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cayde-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayde-6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cayde-6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cayde-6&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cayde-6&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -80,17 +51,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-egorov-ios/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxim.egorov.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cayde-6)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-
-  **💡 "Turning ideas into elegant iOS experiences"**
 
 </div>
