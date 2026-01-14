@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 📍 **Based in Belgrade, Serbia**<br>
-💼 **iOS Team Lead @ B2Broker** — Leading iOS development and architecture<br>
+💼 **iOS Team Lead @B2Broker** — Leading iOS development and architecture<br>
 🎯 **12+ years** of shipping high-impact apps in the Apple ecosystem<br>
 🤖 **AI enthusiast** — Leveraging AI tools to supercharge development productivity<br>
 📱 **Expertise**: Swift, SwiftUI, UIKit, iOS Architecture, Team Leadership
