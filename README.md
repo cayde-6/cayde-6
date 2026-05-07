@@ -48,8 +48,8 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-maxim--egorov.dev-007AFF?style=flat-square&logo=safari&logoColor=white)](https://maxim-egorov.dev)
-[![LinkedIn](https://img.shields.io/badge/-Maxim_Egorov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-egorov-ios/)
-[![Telegram](https://img.shields.io/badge/-@max1m__egorov-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/max1m_egorov)
-[![Email](https://img.shields.io/badge/-maxim.egorov.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maxim.egorov.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cayde-6)
+<a href="https://maxim-egorov.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-maxim--egorov.dev-007AFF?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/maxim-egorov-ios/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Maxim_Egorov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/max1m_egorov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-@max1m__egorov-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:maxim.egorov.dev@gmail.com"><img src="https://img.shields.io/badge/-maxim.egorov.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/cayde-6" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
