@@ -27,6 +27,7 @@
 
 - 🌐 **[UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)** — Tiny CLI demo of Apple's Network.framework
 - 🌍 **[traduora-localization-script](https://github.com/cayde-6/traduora-localization-script)** — Swift script that pulls iOS localizations from Traduora
+
 ## Selected Work
 
 - 📈 **B2Trader** *(@B2Broker)* — Leading iOS for an institutional-grade trading platform: real-time market data, high-frequency-friendly architecture, millisecond-critical UX
