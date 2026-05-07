@@ -26,8 +26,6 @@
 
 - 🌐 **[UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)** — Tiny CLI demo of Apple's Network.framework
 - 🌍 **[traduora-localization-script](https://github.com/cayde-6/traduora-localization-script)** — Swift script that pulls iOS localizations from Traduora
-- 🎙️ **[speech2text-scripts](https://github.com/cayde-6/speech2text-scripts)** — Modular Python pipeline for video/audio transcription via Whisper
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/cayde-6)
