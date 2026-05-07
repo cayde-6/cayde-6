@@ -26,6 +26,23 @@
 
 - 🌐 **[UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)** — Tiny CLI demo of Apple's Network.framework
 - 🌍 **[traduora-localization-script](https://github.com/cayde-6/traduora-localization-script)** — Swift script that pulls iOS localizations from Traduora
+## Selected Work
+
+- 📈 **B2Trader** *(@B2Broker)* — Leading iOS for an institutional-grade trading platform: real-time market data, high-frequency-friendly architecture, millisecond-critical UX
+- 🚐 **Arrival** — Designed a modular iOS framework powering **12+ EV apps** with **>95% unit test coverage**; built real-time GPS/accelerometer tracking and Protobuf BLE/TCP/UDP protocols
+- ⚡ **Charge Cars** — Built the iOS app for a luxury electric Mustang end-to-end: architecture, remote vehicle control (lock, climate, charge) over BLE & REST, custom charging visualizations
+
+## Speaking & Writing
+
+🎤 **[Why CLI Utilities and Warp Are the Best Format for Communicating with Agents](https://podlodka.io/aicrew)** — Podlodka AI Crew, 2025
+
+📝 Recent articles on HackerNoon:
+- [AI Alone Won't Replace Engineers, But AI-Driven Engineers Will](https://hackernoon.com/ai-alone-wont-replace-engineers-but-ai-driven-engineers-will) *(Jul 2025)*
+- [What Swift's Playground Won't Tell You About Concurrency](https://hackernoon.com/what-swifts-playground-wont-tell-you-about-concurrency) *(May 2025)*
+- [Mastering Swift Structured Concurrency](https://hackernoon.com/mastering-swift-structured-concurrency-dive-into-task-and-asynchronous-await) *(Apr 2025)*
+- [Enhance Code Architecture With SOLID](https://hackernoon.com/enhance-your-code-architecture-with-solid-principles-with-swift-examples) *(Mar 2025)*
+- [Building a UDP Server & Client in Swift](https://hackernoon.com/building-a-udp-server-and-client-in-swift-with-networkframework) *(Mar 2025)* — companion repo: [UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/cayde-6)
