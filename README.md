@@ -46,10 +46,6 @@
 - [Enhance Code Architecture With SOLID](https://hackernoon.com/enhance-your-code-architecture-with-solid-principles-with-swift-examples) *(Mar 2025)*
 - [Building a UDP Server & Client in Swift](https://hackernoon.com/building-a-udp-server-and-client-in-swift-with-networkframework) *(Mar 2025)* — companion repo: [UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/cayde-6)
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/-maxim--egorov.dev-007AFF?style=flat-square&logo=safari&logoColor=white)](https://maxim-egorov.dev)
