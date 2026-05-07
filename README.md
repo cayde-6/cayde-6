@@ -19,8 +19,8 @@
 **Active**
 
 - 📅 **[icalendar](https://github.com/cayde-6/icalendar)** — TypeScript CalDAV/iCalendar CLI toolkit
-- 🤖 **[ai-cli-profiles](https://github.com/cayde-6/ai-cli-profiles)** — Multi-account profile isolation for Claude, Codex and other AI CLIs
 - 🧵 **[threads-cli](https://github.com/cayde-6/threads-cli)** — CLI toolkit for working with Threads from the terminal
+- 🤖 **[ai-cli-profiles](https://github.com/cayde-6/ai-cli-profiles)** — Multi-account profile isolation for Claude, Codex and other AI CLIs
 - 🌈 **[prism-drift-macos](https://github.com/cayde-6/prism-drift-macos)** — Procedural macOS screensaver in SwiftUI + Metal, fully shader-driven
 
 **Other**
