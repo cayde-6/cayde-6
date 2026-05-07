@@ -1,55 +1,38 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007AFF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Maxim+Egorov+%F0%9F%91%8B;Lead+iOS+Engineer;12%2B+Years+Building+Apple+Ecosystem+Apps;Supercharging+Development+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
-</div>
+# Hey, I'm Maxim 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cayde-6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/cayde-6?label=Followers&style=social" alt="GitHub followers" />
-</p>
+📍 **Belgrade, Serbia** · 💼 **Lead iOS Engineer @B2Broker** · 🤖 **AI Developer** · 12+ yrs in the Apple ecosystem
 
----
+> Lead iOS by day, AI developer by night. 12+ years shipping in the Apple ecosystem; now building agentic tooling and small dev utilities that make my own workflow faster — and occasionally something useful escapes into the wild.
 
-### 🚀 About Me
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-📍 **Based in Belgrade, Serbia**<br>
-💼 **Lead iOS Engineer @B2Broker** — Leading iOS development and architecture<br>
-🎯 **12+ years** of shipping high-impact apps in the Apple ecosystem<br>
-🤖 **AI enthusiast** — Leveraging AI tools to supercharge development productivity<br>
-📱 **Expertise**: Swift, SwiftUI, UIKit, iOS Architecture, Team Leadership
+## Projects
 
----
+**Active**
 
-### 🛠️ Tech Stack
+- 📅 **[icalendar](https://github.com/cayde-6/icalendar)** — TypeScript CalDAV/iCalendar toolkit
+- 🤖 **[ai-cli-profiles](https://github.com/cayde-6/ai-cli-profiles)** — Multi-account profile isolation for Claude, Codex and other AI CLIs
+- 🧵 **[threads-cli](https://github.com/cayde-6/threads-cli)** — CLI toolkit for working with Threads from the terminal
 
-#### Languages & Frameworks
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0052CC?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=for-the-badge&logo=uikit&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+**Other**
 
-#### Tools & Technologies
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+- 🌐 **[UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)** — Tiny CLI demo of Apple's Network.framework
+- 🌍 **[traduora-localization-script](https://github.com/cayde-6/traduora-localization-script)** — Swift script that pulls iOS localizations from Traduora
+- 🎙️ **[speech2text-scripts](https://github.com/cayde-6/speech2text-scripts)** — Modular Python pipeline for video/audio transcription via Whisper
 
-#### Architecture & Patterns
-![MVVM](https://img.shields.io/badge/MVVM-4B32C3?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-25A162?style=for-the-badge)
-![Reactive](https://img.shields.io/badge/Reactive_Programming-B7178C?style=for-the-badge)
+## GitHub Activity
 
----
+![GitHub Contribution Graph](https://ghchart.rshah.org/cayde-6)
 
-### 🤝 Let's Connect
+## Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-egorov-ios/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxim.egorov.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cayde-6)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-Maxim_Egorov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-egorov-ios/)
+[![Email](https://img.shields.io/badge/-maxim.egorov.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maxim.egorov.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cayde-6)
