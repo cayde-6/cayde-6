@@ -2,7 +2,7 @@
 
 📍 **Belgrade, Serbia** · 💼 **Lead iOS Engineer @B2Broker** · 🤖 **AI Developer** · 12+ yrs in the Apple ecosystem
 
-> Lead iOS by day, AI developer by night. 12+ years shipping in the Apple ecosystem; now building agentic tooling and small dev utilities that make my own workflow faster — and occasionally something useful escapes into the wild.
+> Lead iOS by day, AI developer by night. 12+ years shipping in the Apple ecosystem across **automotive, fintech and trading platforms**; now building agentic tooling and small dev utilities that make my own workflow faster — and occasionally something useful escapes into the wild.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -32,6 +32,8 @@
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/-maxim--egorov.dev-007AFF?style=flat-square&logo=safari&logoColor=white)](https://maxim-egorov.dev)
 [![LinkedIn](https://img.shields.io/badge/-Maxim_Egorov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-egorov-ios/)
+[![Telegram](https://img.shields.io/badge/-@max1m__egorov-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/max1m_egorov)
 [![Email](https://img.shields.io/badge/-maxim.egorov.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maxim.egorov.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cayde-6)
