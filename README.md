@@ -1,6 +1,6 @@
 # Hey, I'm Maxim 👋
 
-📍 **Belgrade, Serbia** · 💼 **Lead iOS Engineer @B2Broker** · 🤖 **AI Developer** · 12+ yrs in the Apple ecosystem
+📍 **Belgrade, Serbia** · 💼 **Lead iOS & AI Engineer @B2Broker** · 12+ yrs in the Apple ecosystem
 
 > Lead iOS by day, AI developer by night. 12+ years shipping in the Apple ecosystem across **automotive, fintech and trading platforms**; now building agentic tooling and small dev utilities that make my own workflow faster — and occasionally something useful escapes into the wild.
 
