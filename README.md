@@ -34,9 +34,12 @@
 
 ## Speaking & Writing
 
-🎤 **[Why CLI Utilities and Warp Are the Best Format for Communicating with Agents](https://podlodka.io/aicrew)** — Podlodka AI Crew, 2025
+**🎤 Speaking**
 
-📝 Recent articles on HackerNoon:
+- **[Why CLI Utilities and Warp Are the Best Format for Communicating with Agents](https://podlodka.io/aicrew)** — Podlodka AI Crew, 2025
+
+**📝 Writing** — recent articles on HackerNoon:
+
 - [AI Alone Won't Replace Engineers, But AI-Driven Engineers Will](https://hackernoon.com/ai-alone-wont-replace-engineers-but-ai-driven-engineers-will) *(Jul 2025)*
 - [What Swift's Playground Won't Tell You About Concurrency](https://hackernoon.com/what-swifts-playground-wont-tell-you-about-concurrency) *(May 2025)*
 - [Mastering Swift Structured Concurrency](https://hackernoon.com/mastering-swift-structured-concurrency-dive-into-task-and-asynchronous-await) *(Apr 2025)*
