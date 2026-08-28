@@ -1,6 +1,6 @@
 # Hey, I'm Maxim 👋
 
-📍 **Belgrade, Serbia** · 💼 **Lead iOS Engineer @B2Broker** · 12+ yrs in the Apple ecosystem
+📍 **Belgrade, Serbia** · 💼 **Lead iOS & AI Engineer @B2Broker** · 12+ yrs in the Apple ecosystem
 
 > I build latency-sensitive iOS products across **automotive, fintech and trading**, lead engineering teams, ship my own privacy-first macOS apps, and create AI-powered developer tools that make everyday workflows faster.
 
@@ -17,18 +17,19 @@
 Shipped solo under **[uagency.dev](https://uagency.dev)** — on-device by default, no accounts, no tracking.
 
 - ✍️ **[uChecker](https://apps.apple.com/app/id6780932473?mt=12)** — Menu-bar proofreader for macOS: fixes spelling, grammar and phrasing on device, with Apple Intelligence on Apple Silicon and bring-your-own-key for a custom or self-hosted model
-- 🗓️ **[uNotch](https://apps.apple.com/app/id6786318748?mt=12)** — Turns the MacBook notch into today's calendar: one-tap Join for Zoom, Meet, Teams and 11 more services, plus a live countdown in the menu bar
+- 🗓️ **[uNotch](https://apps.apple.com/app/id6786318748?mt=12)** — Turns the MacBook notch into a panel you swipe through: today's schedule with one-tap Join for Zoom, Meet, Teams and 11 more services, plus Pomodoro, timers, clipboard and shelf — and a live countdown in the menu bar
 
 ## Featured Projects
 
+- 📊 **[QuotaBar](https://github.com/cayde-6/QuotaBar)** — macOS menu-bar app showing how much Codex and Claude quota is left in the short and weekly windows, with a `.dmg` on the releases page
 - 📅 **[icalendar](https://github.com/cayde-6/icalendar)** — Published TypeScript CLI and npm package for CalDAV automation, tested against iCloud with CI and coverage
 - 🌈 **[Prism Drift](https://github.com/cayde-6/PrismDrift)** — Procedural macOS screen saver built with SwiftUI and Metal, including a universal `.saver` bundle
 - 🧵 **[threads-cli](https://github.com/cayde-6/threads-cli)** — Tested TypeScript CLI for the official Threads API with scriptable JSON output
 
 ## Utilities & Examples
 
-- 🤖 **[ai-cli-profiles](https://github.com/cayde-6/ai-cli-profiles)** — Isolated work and personal profiles for Claude Code and Codex
-- 🧱 **[ios-viper-template](https://github.com/cayde-6/ios-viper-template)** — Cookiecutter template for VIPER + SwiftUI + Swift 6 concurrency apps, with every generated configuration built in CI
+- 🖼️ **[CodeCanvas](https://github.com/cayde-6/CodeCanvas)** — Web-only studio for clean code screenshots: window styles, syntax themes, backdrops and one-click PNG export
+- 🧱 **[ios-viper-template](https://github.com/cayde-6/ios-viper-template)** — Cookiecutter template for VIPER + SwiftUI + Swift 6 concurrency apps: generated projects ship a `CLAUDE.md` with seven subagents, and every configuration is built in CI
 - 🌍 **[traduora-localization-script](https://github.com/cayde-6/traduora-localization-script)** — Swift localization automation for iOS projects
 - 🌐 **[UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)** — Network.framework example accompanying my UDP networking article
 
@@ -44,8 +45,10 @@ Shipped solo under **[uagency.dev](https://uagency.dev)** — on-device by defau
 
 - **[Why CLI Utilities and Warp Are the Best Format for Communicating with Agents](https://podlodka.io/aicrew)** — Podlodka AI Crew, 2025
 
-**📝 Writing** — recent articles on [HackerNoon](https://hackernoon.com/u/element):
+**📝 Writing** — recent articles, mostly on [HackerNoon](https://hackernoon.com/u/element):
 
+- [SwiftData, Core Data, or GRDB: Choose by the Queries You Actually Run](https://hackernoon.com/swiftdata-core-data-or-grdb-choose-by-the-queries-you-actually-run) *(Aug 2026)*
+- [iOS Data Storage: Classify Your Data Before You Choose a Database](https://hackernoon.com/ios-data-storage-classify-your-data-before-you-choose-a-database) *(Aug 2026)*
 - [SwiftUI's @State Is Now a Macro — What It Means for You](https://hackernoon.com/swiftuis-state-is-now-a-macro-what-it-means-for-you) *(Jun 2026)*
 - [SwiftUI Performance Is Not About Views. It Is About Diffing](https://hackernoon.com/swiftui-performance-is-not-about-views-it-is-about-diffing) *(May 2026)*
 - [AI Alone Won't Replace Engineers, But AI-Driven Engineers Will](https://hackernoon.com/ai-alone-wont-replace-engineers-but-ai-driven-engineers-will) *(Jul 2025)*
@@ -53,6 +56,7 @@ Shipped solo under **[uagency.dev](https://uagency.dev)** — on-device by defau
 - [Mastering Swift Structured Concurrency](https://hackernoon.com/mastering-swift-structured-concurrency-dive-into-task-and-asynchronous-await) *(Apr 2025)*
 - [Enhance Code Architecture With SOLID](https://hackernoon.com/enhance-your-code-architecture-with-solid-principles-with-swift-examples) *(Mar 2025)*
 - [Building a UDP Server & Client in Swift](https://hackernoon.com/building-a-udp-server-and-client-in-swift-with-networkframework) *(Mar 2025)* — companion repo: [UDPServer-Client](https://github.com/cayde-6/UDPServer-Client)
+- [Why Developers Should Know SQL Even When NoSQL Exists](https://tproger.ru/articles/zachem-razrabotchiku-znat-sql--esli-est-nosql--razbiraemsya-na-primerah) *(Tproger, Mar 2025 — in Russian)*
 
 ## Connect
 
