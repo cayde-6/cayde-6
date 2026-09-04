@@ -24,7 +24,6 @@ Shipped solo under **[uagency.dev](https://uagency.dev)** — on-device by defau
 - 📊 **[QuotaBar](https://github.com/cayde-6/QuotaBar)** — macOS menu-bar app showing how much Codex and Claude quota is left in the short and weekly windows, with a `.dmg` on the releases page
 - 📅 **[icalendar](https://github.com/cayde-6/icalendar)** — Published TypeScript CLI and npm package for CalDAV automation, tested against iCloud with CI and coverage
 - 🌈 **[Prism Drift](https://github.com/cayde-6/PrismDrift)** — Procedural macOS screen saver built with SwiftUI and Metal, including a universal `.saver` bundle
-- 🧵 **[threads-cli](https://github.com/cayde-6/threads-cli)** — Tested TypeScript CLI for the official Threads API with scriptable JSON output
 
 ## Utilities & Examples
 
