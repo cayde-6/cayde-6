@@ -13,8 +13,8 @@
 
 Shipped solo under **[uagency.dev](https://uagency.dev)** — on-device by default, no accounts, no tracking.
 
-- ✍️ **[uChecker](https://apps.apple.com/app/id6780932473?mt=12)** — Menu-bar proofreader for macOS: fixes spelling, grammar and phrasing on device, with Apple Intelligence on Apple Silicon and bring-your-own-key for a custom or self-hosted model
 - 🗓️ **[uNotch](https://apps.apple.com/app/id6786318748?mt=12)** — Turns the MacBook notch into a panel you swipe through: today's schedule with one-tap Join for Zoom, Meet, Teams and 11 more services, plus Pomodoro, timers, clipboard and shelf — and a live countdown in the menu bar
+- ✍️ **[uChecker](https://apps.apple.com/app/id6780932473?mt=12)** — Menu-bar proofreader for macOS: fixes spelling, grammar and phrasing on device, with Apple Intelligence on Apple Silicon and bring-your-own-key for a custom or self-hosted model
 
 ## Selected Work
 
