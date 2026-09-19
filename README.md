@@ -22,6 +22,12 @@ Shipped solo under **[uagency.dev](https://uagency.dev)** — on-device by defau
 - 🚐 **Arrival** — Designed a modular iOS framework powering **12+ EV apps** with **>95% unit test coverage**; built real-time GPS/accelerometer tracking and Protobuf BLE/TCP/UDP protocols
 - ⚡ **Charge Cars** — Built the iOS app for a luxury electric Mustang end-to-end: architecture, remote vehicle control (lock, climate, charge) over BLE & REST, custom charging visualizations
 
+## Open Source
+
+Contributing upstream to the projects I build on:
+
+**[swift-foundation](https://github.com/swiftlang/swift-foundation)** *(Apple)* · **[ICU](https://github.com/unicode-org/icu)** *(Unicode)* · **[NetBird](https://github.com/netbirdio/netbird)** · **[borsh-rs](https://github.com/near/borsh-rs)** *(NEAR)* · **[Mumble](https://github.com/mumble-voip/mumble)**
+
 ## AI & Developer Tooling
 
 - 📊 **[QuotaBar](https://github.com/cayde-6/QuotaBar)** — Menu-bar quota indicator for Codex and Claude that reads what the CLIs already store on disk: no login, no token refresh, `.dmg` on the releases page
