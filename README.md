@@ -26,11 +26,11 @@ Shipped solo under **[uagency.dev](https://uagency.dev)** — on-device by defau
 
 Contributing upstream to the projects I build on:
 
-- **[swift-foundation](https://github.com/swiftlang/swift-foundation)** *(Apple)*
-- **[ICU](https://github.com/unicode-org/icu)** *(Unicode)*
-- **[NetBird](https://github.com/netbirdio/netbird)**
-- **[borsh-rs](https://github.com/near/borsh-rs)** *(NEAR)*
-- **[Mumble](https://github.com/mumble-voip/mumble)**
+- 🍎 **[swift-foundation](https://github.com/swiftlang/swift-foundation)** · `Swift` — the Foundation project, at Apple
+- 🔤 **[ICU](https://github.com/unicode-org/icu)** · `C++` — the reference implementation of Unicode and i18n, at Unicode
+- 🕸️ **[NetBird](https://github.com/netbirdio/netbird)** · `Go` — WireGuard®-based overlay networks with SSO and MFA
+- 🦀 **[borsh-rs](https://github.com/near/borsh-rs)** · `Rust` — the Borsh binary serialization format, at NEAR
+- 🎙️ **[Mumble](https://github.com/mumble-voip/mumble)** · `C++` — low-latency, high quality voice chat
 
 ## AI & Developer Tooling
 
